@@ -8,8 +8,7 @@ operators = {
     '/': lambda a, b: a / b
 }
 
-def eval_rpn(expression):
-    elements = expression.split()
+def eval_rpn(elements):
     pile = []
     while elements:
         e = elements.pop(0)
