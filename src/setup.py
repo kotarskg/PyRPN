@@ -7,6 +7,6 @@ setup(name='PyRPN',
       description='Python Reverse Polish Notation calculator',
       author='Grzegorz Kotarski',
       author_email='grzes.kotarski@gmail.com',
-      url='https://www.python.org/sigs/distutils-sig/',
+      url='https://github.com/grzes71/PyRPN',
       packages=['pyrpn', 'pyrpn.tests'],
      )
