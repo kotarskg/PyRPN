@@ -3,10 +3,10 @@
 from distutils.core import setup
 
 setup(name='PyRPN',
-      version='1.0',
+      version='0.1.0',
       description='Python Reverse Polish Notation calculator',
       author='Grzegorz Kotarski',
-      author_email='grzes.kotarski@gmail.com',
-      url='https://github.com/grzes71/PyRPN',
+      author_email='grzes.kotarski@trw.com',
+      url='https://github.com/kotarskg/PyRPN',
       packages=['pyrpn', 'pyrpn.tests'],
      )
